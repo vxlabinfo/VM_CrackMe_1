@@ -1,3 +1,6 @@
 # vm1
 Simple and old virtual machine
 
+## Russian 
+Первая (и на данный момент последняя) версия виртуальной машины, используемой в [Сrackme](https://forum.reverse4you.org/showthread.php?t=1943)
+Технические подробности читай на [VxLab](http://vxlab.info/?p=665)
