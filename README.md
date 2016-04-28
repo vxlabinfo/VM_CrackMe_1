@@ -2,6 +2,6 @@
 Simple and old virtual machine
 
 ## Russian 
-Первая (и на данный момент последняя) версия виртуальной машины, используемой в [VM_CrackMe_1](https://forum.reverse4you.org/showthread.php?t=1943)
+Первая (и пока что последняя) версия виртуальной машины, используемой в [VM_CrackMe_1](https://forum.reverse4you.org/showthread.php?t=1943)
 
 Технические подробности читай на [VxLab](http://vxlab.info/?p=665)
