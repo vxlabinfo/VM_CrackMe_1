@@ -1,4 +1,4 @@
-# vm1
+# VM_CrackMe_1
 Simple and old virtual machine
 
 ## Russian 
